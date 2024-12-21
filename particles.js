@@ -1,6 +1,6 @@
 $(document).ready(async function () {
     await loadFull(tsParticles);
-    $("#page_container").particles().init( 
+    $("#animated-background").particles().init( 
         {
 
             // Set the FPS of the particles
